@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghous Ahmed</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Engineer • JavaScript</h3>
 
 - 🌱 I’m currently learning *Blockchain, Solidity, NFTs, DeFi, GameFi, DApps,*
 
