@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghous Ahmed</h1>
 <h3 align="center">I'm a full stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghousahmed" alt="ghousahmed" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Django, DevOps and Artificial intelligence (AI)**
 
 - 👨‍💻 All of my projects are available at [https://ghousahmed.com/](https://ghousahmed.com/)
@@ -28,6 +26,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ghousahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ghousahmed" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghousahmed&show_icons=true&locale=en&layout=compact" alt="ghousahmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghousahmed&show_icons=true&locale=en" alt="ghousahmed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghousahmed&show_icons=true&locale=en&layout=compact" alt="ghousahmed" /></p>
