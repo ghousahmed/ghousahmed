@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghous Ahmed</h1>
-<h3 align="center">I'm a full stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
+<h3 align="center">I'm a full-stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
 - 🌱 I’m currently learning **Python, Django, DevOps and Artificial intelligence (AI)**
 
