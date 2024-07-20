@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ghous Ahmed</h1>
-<h3 align="center">I'm a full-stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
+<h3 align="center">I’m a full-stack developer driven by a passion for creating scalable, cutting-edge applications with a strong emphasis on user experience.</h3>
 
-- 🌱 I’m currently learning **Python, Django, DevOps and Artificial intelligence (AI)**
+- 🌱 I’m currently learning **Python, Django, DevOps, and Cloud Engineering**
 
 - 👨‍💻 All of my projects are available at [https://ghousahmed.com/](https://ghousahmed.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@ghousahmed](https://medium.com/@ghousahmed)
 
-- 💬 Ask me about **JavaScript, TypeScript, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, SQL & NO-SQL Databases, AWS, GCP, Jest, Cypress, Python and Django**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, AWS, Jest, Cypress, Python and Django**
 
 - 📫 How to reach me **ghous.shah91@gmail.com**
 
